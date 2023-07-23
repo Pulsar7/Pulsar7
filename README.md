@@ -2,7 +2,6 @@
 - 👀 I’m interested in physics
 - 📡 My Blog: https://dual-reality-blog.blogspot.com/
 - 🖥️ My Coding-Blog: https://dual-coding.blogspot.com/
-- 📫 How to reach me: pulsar_seven@protonmail.com
 
 <!---
 Pulsar7/Pulsar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
